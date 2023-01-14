@@ -4,6 +4,7 @@ This project uses a Long Short Term Neural Network to predict a stock's next day
 to see how accurate a machine learning model could predict stock prices. 
 
 Important things to note about this project:
+If you want to run this project on your computer, you will need too download a few extensions including, but not limited to, Numpy and Tensorflow
 The project is built in Python using an LSTM.
 The data is sourced directly from Yahoo Finance and stored in CSV files
 The data includes daily opening prices, highs, lows, closing prices, adjusted closing prices, and trading volume HOWEVER, only the closing prices are used. 
